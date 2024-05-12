@@ -1,0 +1,7 @@
+names:
+- 1d
+- 2d
+nc: 2
+test: "C:/Users/Artem/bboxed_barcodes_dataset/Testing"
+val: "C:/Users/Artem/bboxed_barcodes_dataset/Validation"
+train: "C:/Users/Artem/bboxed_barcodes_dataset/Training"
