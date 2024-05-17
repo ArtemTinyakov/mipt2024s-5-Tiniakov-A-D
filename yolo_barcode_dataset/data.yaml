@@ -1,0 +1,7 @@
+names:
+- 1d
+- 2d
+nc: 2
+test: "C:/Users/Artem/yolo_barcode_dataset/Testing"
+val: "C:/Users/Artem/yolo_barcode_dataset/Validation"
+train: "C:/Users/Artem/yolo_barcode_dataset/Training"
